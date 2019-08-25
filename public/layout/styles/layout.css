@@ -92,7 +92,7 @@ File: Layout CSS
 .team figure img{}
 .team figure figcaption{padding:20px 10px; line-height:1; border:solid; border-width:0 1px 1px 1px;}
 .team figure strong{display:block; margin-bottom:8px; font-size:1.4rem; font-weight:400; line-height: initial;}
-.team figure em{display:block; font-style:normal; font-size:.8rem;}
+.team figure em{display:block; font-style:normal; font-size:1.3rem; color: darkgray;}
 
 /* Points */
 .points{padding:50px; border-radius:50px 0;}
