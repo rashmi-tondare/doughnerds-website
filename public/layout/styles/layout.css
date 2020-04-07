@@ -1,13 +1,4 @@
 @charset "utf-8";
-/*
-Template Name: Yammoe
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Copyright: OS-Templates.com
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
-File: Layout CSS
-*/
 
 @import url("fontawesome-free/css/all.css");
 @import url("framework.css");
@@ -563,7 +554,7 @@ table a, #comments a{background-color:inherit;}
 }
 
 .accordion-active:after {
-  content: "\f077"; /* Unicode character for "up" sign (-)
+  content: "\f077"; /* Unicode character for "up" sign (-) */
 }
 
 /* Add a black background color to the top navigation */
